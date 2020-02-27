@@ -1,0 +1,20 @@
+﻿  A1.cpp
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(140): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(142): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(146): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(379): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(381): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(382): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(603): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(655): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(656): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(660): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(661): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(662): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(663): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(691): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(798): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\chris\documents\school\comp 371\assignment#2_40025085\assignment 1\assignment 1\source\a1.cpp(998): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Labs.vcxproj -> C:\Users\chris\Documents\School\comp 371\Assignment#2_40025085\Assignment 1\Assignment 1\VS2017\/../Bin/Assignment 1-Debug.exe
